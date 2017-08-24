@@ -1,4 +1,5 @@
-package libgosubs
+package subconvfunc
+
 
 import (
 	"strings"
