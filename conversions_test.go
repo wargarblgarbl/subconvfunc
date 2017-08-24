@@ -1,4 +1,4 @@
-package libgosubs
+package subconvfunc
 import (
 	"testing"
 	"fmt"
